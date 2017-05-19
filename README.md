@@ -1,8 +1,8 @@
-#Create an HTML Document
+# Create an HTML Document
 
 ### Mockup
 [mockup](./_mockups/demo-html.png)
-
+![mockup](./_mockups/demo-html.png)
 
 ### Requirements
 - doctype declaration
